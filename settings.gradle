@@ -1,0 +1,3 @@
+include ':toastJC'
+include ':app'
+rootProject.name = "CustomLibDemo"
